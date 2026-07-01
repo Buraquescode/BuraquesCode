@@ -57,15 +57,19 @@ Full restaurant point-of-sale and inventory system — ingredients, products, su
 Desktop application for medicine inventory, manufacturer tracking, sales, and receipt generation.
 - **Stack:** C#, .NET
 
-#### 🏢 Company Management System
+#### 🏢 [Company Management System](https://github.com/Buraquescode/company-managment-showcase)
 Internal management system with real-time currency conversion for sales, finance, projects, and client tracking.
 - **Stack:** Django
 
-#### 📚 Sindh Online School — Free Education Platform
+#### 📚 [Sindh Online School](https://github.com/Buraquescode/sindh-online-school-showcase) — Free Education Platform
 A free bilingual (English/Sindhi) education platform organizing YouTube lectures by Class → Subject → Chapter → Topic.
 - Flutter mobile app + Next.js web platform
 - Firebase backend with custom admin panel
 - **Stack:** Flutter, Next.js, Firebase
+
+#### 🇮🇹 [Study in Italy — Consultancy Website](https://github.com/Buraquescode/itlay-client-project-showcase)
+Client website built for an education consultancy guiding Pakistani students through university and scholarship applications in Italy.
+- **Stack:** JavaScript
 
 #### 🏫 QUEST Nawabshah — CS Department & University Websites
 Institutional websites built for my own university's Computer Science department and main site.
@@ -84,8 +88,8 @@ Institutional websites built for my own university's Computer Science department
 
 - 💼 LinkedIn: [linkedin.com/in/sayed-buraque-1b2098284](https://www.linkedin.com/in/sayed-buraque-1b2098284)
 - 📺 YouTube: [Buraque's Code and Tech](https://youtube.com/@buraquesayed?si=JrXkNnJE6G1aacKS)
-- 📧 Email: [Add your email]
-- 🌐 Portfolio: [Add your portfolio URL]
+- 📧 Email: buraquescode24@gmail.com
+- 🌐 Portfolio: [bsyed.youngdevinterns.net](https://bsyed.youngdevinterns.net)
 - 📍 Hyderabad, Sindh, Pakistan
 
 <p align="center"><i>Open to full-stack, mobile, and AI/ML opportunities — and always building something new for Pakistan's tech ecosystem.</i></p>
