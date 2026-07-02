@@ -21,7 +21,7 @@ Building practical, locally-relevant tech for Pakistan — real estate, legal, e
 ### 🛠️ Tech Stack
 
 **Languages:** JavaScript/TypeScript, Python, Dart, C#, C  
-**Frontend:** React.js, Flutter (BLoC, GoRouter), HTML/CSS  
+**Frontend:** React.js,Vuejs Flutter (BLoC, GoRouter), HTML/CSS  
 **Backend:** Django, Node.js/Express (MERN), REST APIs  
 **Database & Cloud:** Firebase (Firestore, Auth, Storage, Messaging), MongoDB, SQL  
 **AI/ML:** CNNs, LLM integration (Gemini), applied healthcare AI  
