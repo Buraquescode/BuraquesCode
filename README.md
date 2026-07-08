@@ -78,7 +78,7 @@ Institutional websites built for my own university's Computer Science department
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Buraquescode&show_icons=true&theme=default&cache_seconds=1" alt="Buraque's GitHub stats" />
+<img src="https://github-readme-stats-eight-kappa-30.vercel.app/api?username=Buraquescode&show_icons=true&theme=default" alt="Buraque's GitHub stats" />
 
 
 ---
