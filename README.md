@@ -37,6 +37,8 @@ Building practical, locally-relevant tech for Pakistan — real estate, legal, e
 
 #### 🏠 [Pak Properties](https://github.com/Buraquescode/pak-properties-showcase) — Flutter Real Estate Marketplace
 Bilingual (Urdu/English) property marketplace built for the Pakistani market, including smaller cities often ignored by existing platforms.
+- Download application: https://play.google.com/store/apps/details?id=com.propertypk.property_pk
+- Website Pak Properties: https://pakproperties.site/
 - Unique features: Seller Trust Score, Visit Confirm, Mohalla Chat, Deal Witness, Area Price Meter
 - Guest browsing architecture using Flutter BLoC + GoRouter
 - Full localization system across all screens
