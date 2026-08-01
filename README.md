@@ -11,6 +11,7 @@ Building practical, locally-relevant tech for Pakistan — real estate, legal, e
 
 - 🎓 Computer Science graduate, **QUEST Nawabshah**, Pakistan
 - 🏢 Founder, CEO of **Youngdev Interns**
+- 👩‍💻 Founder, Pak Properties, Pakistan's Real Estate Marketplace
 - 💼 Experience at **Qonkar Technologies** and **YoungDev Interns**
 - 🔬 Published researcher — *AI Radiologist* (IJIST 2025), an AI-powered radiology support tool
 - 🌍 I build bilingual (Urdu/English) products for the Pakistani market, from real estate marketplaces to civic platforms
