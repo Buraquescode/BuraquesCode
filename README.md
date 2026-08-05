@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Buraque 👋</h1>
-<h3 align="center">Full-Stack Developer | AI/ML Integrator | Founder, CEO @ Youngdev Interns</h3>
+<h3 align="center">Full-Stack Developer | AI/ML Integrator | Founder, CEO @ Pak Properties</h3>
 
 <p align="center">
 Building practical, locally-relevant tech for Pakistan — real estate, legal, education, and healthcare.
@@ -10,7 +10,6 @@ Building practical, locally-relevant tech for Pakistan — real estate, legal, e
 ### 🚀 About Me
 
 - 🎓 Computer Science graduate, **QUEST Nawabshah**, Pakistan
-- 🏢 Founder, CEO of **Youngdev Interns**
 - 👩‍💻 Founder, Pak Properties, Pakistan's Real Estate Marketplace
 - 💼 Experience at **Qonkar Technologies** and **YoungDev Interns**
 - 🔬 Published researcher — *AI Radiologist* (IJIST 2025), an AI-powered radiology support tool
