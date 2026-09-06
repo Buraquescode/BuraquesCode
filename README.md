@@ -22,7 +22,7 @@ Building practical, locally-relevant tech for Pakistan — real estate, legal, e
 
 **Languages:** JavaScript/TypeScript, Python, Dart, C#, C  
 **Frontend:** React.js,Vuejs Flutter (BLoC, GoRouter), HTML/CSS  
-**Backend:** Django, Node.js/Express (MERN), REST APIs  
+**Backend:** C# .NET Core ASP.NET, REST APIs  
 **Database & Cloud:** Firebase (Firestore, Auth, Storage, Messaging), MongoDB, SQL  
 **AI/ML:** CNNs, LLM integration (Gemini), applied healthcare AI  
 **Other:** Baileys (WhatsApp API), Hostinger VPS deployment, client-side encryption (RSA-OAEP + AES-256-GCM)
