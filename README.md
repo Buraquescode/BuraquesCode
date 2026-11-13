@@ -90,7 +90,7 @@ Institutional websites built for my own university's Computer Science department
 - 💼 LinkedIn: [linkedin.com/in/sayed-buraque-1b2098284](https://www.linkedin.com/in/sayed-buraque-1b2098284)
 - 📺 YouTube: [Buraque's Code and Tech](https://youtube.com/@buraquesayed?si=JrXkNnJE6G1aacKS)
 - 📧 Email: buraquescode24@gmail.com
-- 🌐 Portfolio: [bsyed.youngdevinterns.net](https://bsyed.youngdevinterns.net)
+- 🌐 Portfolio: [https://buraques-portfolio.vercel.app/)
 - 📍 Hyderabad, Sindh, Pakistan
 
 <p align="center"><i>Open to full-stack, mobile, and AI/ML opportunities — and always building something new for Pakistan's tech ecosystem.</i></p>
