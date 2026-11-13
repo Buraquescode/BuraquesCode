@@ -100,6 +100,8 @@ flowchart LR
   <img src="https://github-readme-stats-eight-kappa-30.vercel.app/api?username=Buraquescode&show_icons=true&theme=tokyonight&hide_border=true" alt="Buraque's GitHub stats" />
 </p>
 
+---
+
 ## 📫 Let's Connect
 
 <p>
