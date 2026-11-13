@@ -96,10 +96,7 @@ flowchart LR
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-kappa-30.vercel.app/api?username=Buraquescode&show_icons=true&theme=default" alt="Buraque's GitHub stats" />
-</p>
-
+<img src="https://github-readme-stats-eight-kappa-30.vercel.app/api?username=Buraquescode&show_icons=true&theme=default" alt="Buraque's GitHub stats" />
 ---
 
 ## 📫 Let's Connect
