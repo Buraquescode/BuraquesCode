@@ -44,7 +44,7 @@ Bilingual (Urdu/English) property marketplace built for the Pakistani market, in
 - Full localization system across all screens
 - **Stack:** Flutter, Firebase, BLoC, Easy Localization
 
-#### ⚖️ [District Bar Association (DBA) Larkana](https://github.com/Buraquescode/district-bar-association-larkana-showcase) — Legal Platform
+#### ⚖️ [District Bar Association (DBA) Larkana](https://www.dbalarkana.site/) — Legal Platform
 Full MERN stack platform built for a real legal institution, managing members, dues, and public communication.
 - Member directory, dues tracking, media & documentation vault
 - WhatsApp bulk announcement system using Baileys
