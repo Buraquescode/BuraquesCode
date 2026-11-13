@@ -1,96 +1,114 @@
 <h1 align="center">Hi, I'm Buraque 👋</h1>
-<h3 align="center">Full-Stack Developer | AI/ML Integrator | Founder, CEO @ Pak Properties</h3>
 
 <p align="center">
-Building practical, locally-relevant tech for Pakistan — real estate, legal, education, and healthcare.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=Full-Stack+Developer;AI%2FML+Integrator;Founder+%40+Youngdev+Interns;Building+for+Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing animation" />
+  </a>
+</p>
+
+<p align="center">
+  Building practical, locally relevant tech for Pakistan: real estate, legal, education, and healthcare.
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🎓 Computer Science graduate, **QUEST Nawabshah**, Pakistan
-- 👩‍💻 Founder, Pak Properties, Pakistan's Real Estate Marketplace
-- 💼 Experience at **Qonkar Technologies** and **YoungDev Interns**
-- 🔬 Published researcher — *AI Radiologist* (IJIST 2025), an AI-powered radiology support tool
-- 🌍 I build bilingual (Urdu/English) products for the Pakistani market, from real estate marketplaces to civic platforms
-- 📍 Based in Hyderabad, Sindh, Pakistan
-
----
-
-### 🛠️ Tech Stack
-
-**Languages:** JavaScript/TypeScript, Python, Dart  
-**Frontend:** React.js,Vuejs Flutter (BLoC, GoRouter), HTML/CSS  
-**Backend:** Expressjs, Nodejs, REST APIs  
-**Database & Cloud:** Firebase (Firestore, Auth, Storage, Messaging), MongoDB, SQL  
-**AI/ML:** CNNs, LLM integration (Gemini), applied healthcare AI  
-**Other:** Baileys (WhatsApp API), Hostinger VPS deployment, client-side encryption (RSA-OAEP + AES-256-GCM)
+- 🎓 Computer Science graduate, **QUEST Nawabshah**
+- 🏢 Founder of **Youngdev Interns**, a tech internship and client-services organization
+- 🏠 Founder of **Pak Properties**, a bilingual real estate marketplace
+- 💼 Former experience at **Qonkar Technologies**
+- 🔬 Published researcher: **AI Radiologist** (IJIST, Vol. 7, Issue 10, 2025)
+- 🌍 Build bilingual (Urdu/English) products for the Pakistani market
+- 📍 Sindh, Pakistan
 
 ---
 
-### 🌟 Featured Projects
+## 🛠️ Tech Stack
 
-#### 🩻 [AI Radiologist](https://github.com/Buraquescode/ai-radiologist-showcase) — Published Research, Clinical Decision Support System
-**Published in IJIST, Vol. 7, Issue 10, November 2025.** A hybrid CNN + Retrieval-Augmented Generation system that analyzes CT/MRI/X-ray/ultrasound scans and generates structured, clinically-grounded diagnostic reports — 94.5% accuracy across ~70,000 training images.
-- **Stack:** Django, CNN, ChromaDB, RAG, LLM integration
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C# .NET" />
+</p>
 
-#### 🏠 [Pak Properties](https://github.com/Buraquescode/pak-properties-showcase) — Flutter Real Estate Marketplace
-Bilingual (Urdu/English) property marketplace built for the Pakistani market, including smaller cities often ignored by existing platforms.
-- Download application: https://play.google.com/store/apps/details?id=com.propertypk.property_pk
-- Website Pak Properties: https://pakproperties.site/
-- Unique features: Seller Trust Score, Visit Confirm, Mohalla Chat, Deal Witness, Area Price Meter
-- Guest browsing architecture using Flutter BLoC + GoRouter
-- Full localization system across all screens
-- **Stack:** Flutter, Firebase, BLoC, Easy Localization
+### Stack at a glance
 
-#### ⚖️ [District Bar Association (DBA) Larkana](https://www.dbalarkana.site/) — Legal Platform
-Full MERN stack platform built for a real legal institution, managing members, dues, and public communication.
-- Member directory, dues tracking, media & documentation vault
-- WhatsApp bulk announcement system using Baileys
-- Admin CMS + Hostinger VPS deployment
-- **Stack:** MERN, Baileys, Hostinger
+```mermaid
+flowchart LR
+    subgraph Frontend
+        F1[Flutter<br/>BLoC · GoRouter]
+        F2[React / Next.js]
+        F3[Vue.js]
+    end
+    subgraph Backend
+        B1[Node.js / Express]
+        B2[Django]
+        B3[REST APIs]
+    end
+    subgraph Data_and_Cloud[Data & Cloud]
+        D1[Firebase<br/>Firestore · Auth · Storage · Messaging]
+        D2[MongoDB / SQL]
+        D3[Hostinger VPS]
+    end
+    subgraph AI_ML[AI / ML]
+        A1[CNNs]
+        A2[RAG + ChromaDB]
+        A3[Gemini LLM integration]
+    end
+    Frontend --> Backend
+    Backend --> Data_and_Cloud
+    AI_ML --> Backend
+```
 
-#### 🍽️ [Restaurant POS System](https://github.com/Buraquescode/restuarant-pos-showcase)
-Full restaurant point-of-sale and inventory system — ingredients, products, suppliers, purchase/sales orders, and stock adjustments.
-- **Stack:** Django
-
-#### 💊 [Pharmacy Management System](https://github.com/Buraquescode/pharmacy-management-system)
-Desktop application for medicine inventory, manufacturer tracking, sales, and receipt generation.
-- **Stack:** C#, .NET
-
-#### 🏢 [Company Management System](https://github.com/Buraquescode/company-managment-showcase)
-Internal management system with real-time currency conversion for sales, finance, projects, and client tracking.
-- **Stack:** Django
-
-#### 📚 [Sindh Online School](https://github.com/Buraquescode/sindh-online-school-showcase) — Free Education Platform
-A free bilingual (English/Sindhi) education platform organizing YouTube lectures by Class → Subject → Chapter → Topic.
-- Flutter mobile app + Next.js web platform
-- Firebase backend with custom admin panel
-- **Stack:** Flutter, Next.js, Firebase
-
-#### 🇮🇹 [Study in Italy — Consultancy Website](https://github.com/Buraquescode/itlay-client-project-showcase)
-Client website built for an education consultancy guiding Pakistani students through university and scholarship applications in Italy.
-- **Stack:** JavaScript
-
-#### 🏫 QUEST Nawabshah — CS Department & University Websites
-Institutional websites built for my own university's Computer Science department and main site.
-
----
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats-eight-kappa-30.vercel.app/api?username=Buraquescode&show_icons=true&theme=default" alt="Buraque's GitHub stats" />
-
+**Other:** Baileys (WhatsApp API) · client-side encryption (RSA-OAEP + AES-256-GCM) · localization (Easy Localization)
 
 ---
 
-### 📫 Let's Connect
+## 🌟 Featured Projects
 
-- 💼 LinkedIn: [linkedin.com/in/sayed-buraque-1b2098284](https://www.linkedin.com/in/sayed-buraque-1b2098284)
-- 📺 YouTube: [Buraque's Code and Tech](https://youtube.com/@buraquesayed?si=JrXkNnJE6G1aacKS)
-- 📧 Email: buraquescode24@gmail.com
-- 🌐 Portfolio: [https://buraques-portfolio.vercel.app/)
-- 📍 Hyderabad, Sindh, Pakistan
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| 🩻 **AI Radiologist** | Published research: a hybrid CNN + RAG clinical decision support system. Analyzes CT, MRI, X-ray, and ultrasound scans and generates structured diagnostic reports (94.5% accuracy across ~70,000 training images). | Django, CNN, ChromaDB, RAG, LLM | [Code](https://github.com/Buraquescode/ai-radiologist-showcase) |
+| 🏠 **Pak Properties** | Bilingual (Urdu/English) property marketplace for Pakistan, including smaller cities that larger platforms often ignore. Features: Seller Trust Score, Visit Confirm, Mohalla Chat, Deal Witness, Area Price Meter. | Flutter, Firebase, BLoC, Easy Localization | [Code](https://github.com/Buraquescode/pak-properties-showcase) · [Website](https://pakproperties.site/) · [Play Store](https://play.google.com/store/apps/details?id=com.propertypk.property_pk) |
+| ⚖️ **District Bar Association Larkana** | Full MERN platform for a legal institution: member directory, dues tracking, media vault, WhatsApp bulk announcements, and an admin CMS. | MERN, Baileys, Hostinger VPS | [Website](https://www.dbalarkana.site/) |
+| 📚 **Sindh Online School** | Free bilingual (English/Sindhi) platform organizing YouTube lectures by Class → Subject → Chapter → Topic. | Flutter, Next.js, Firebase | [Code](https://github.com/Buraquescode/sindh-online-school-showcase) |
+| 🍽️ **Restaurant POS System** | Point-of-sale and inventory: ingredients, products, suppliers, purchase/sales orders, stock adjustments. | Django | [Code](https://github.com/Buraquescode/restuarant-pos-showcase) |
+| 💊 **Pharmacy Management System** | Desktop app for medicine inventory, manufacturer tracking, sales, and receipts. | C#, .NET | [Code](https://github.com/Buraquescode/pharmacy-management-system) |
+| 🏢 **Company Management System** | Internal system with real-time currency conversion for sales, finance, projects, and clients. | Django | [Code](https://github.com/Buraquescode/company-managment-showcase) |
+| 🇮🇹 **Study in Italy** | Client website for an education consultancy guiding students through Italian university and scholarship applications. | JavaScript | [Code](https://github.com/Buraquescode/itlay-client-project-showcase) |
+| 🏫 **QUEST Nawabshah** | Websites for the university's Computer Science department and main site. | Web | — |
 
-<p align="center"><i>Open to full-stack, mobile, and AI/ML opportunities — and always building something new for Pakistan's tech ecosystem.</i></p>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-kappa-30.vercel.app/api?username=Buraquescode&show_icons=true&theme=default" alt="Buraque's GitHub stats" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/sayed-buraque-1b2098284"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://youtube.com/@buraquesayed"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="mailto:buraquescode24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://buraques-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+<p align="center"><i>Open to full-stack, mobile, and AI/ML opportunities, and always building something new for Pakistan's tech ecosystem.</i></p>
