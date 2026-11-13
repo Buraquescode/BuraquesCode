@@ -17,7 +17,6 @@
 - 🎓 Computer Science graduate, **QUEST Nawabshah**
 - 🏢 Founder of **Youngdev Interns**, a tech internship and client-services organization
 - 🏠 Founder of **Pak Properties**, a bilingual real estate marketplace
-- 💼 Former experience at **Qonkar Technologies**
 - 🔬 Published researcher: **AI Radiologist** (IJIST, Vol. 7, Issue 10, 2025)
 - 🌍 Build bilingual (Urdu/English) products for the Pakistani market
 - 📍 Sindh, Pakistan
