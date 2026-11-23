@@ -25,7 +25,7 @@
 
 ## 🛠️ Tech Stack
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -46,32 +46,12 @@
 
 ### Stack at a glance
 
-```mermaid
-flowchart LR
-    subgraph Frontend
-        F1[Flutter<br/>BLoC · GoRouter]
-        F2[React / Next.js]
-        F3[Vue.js]
-    end
-    subgraph Backend
-        B1[Node.js / Express]
-        B2[Django]
-        B3[REST APIs]
-    end
-    subgraph Data_and_Cloud[Data & Cloud]
-        D1[Firebase<br/>Firestore · Auth · Storage · Messaging]
-        D2[MongoDB / SQL]
-        D3[Hostinger VPS]
-    end
-    subgraph AI_ML[AI / ML]
-        A1[CNNs]
-        A2[RAG + ChromaDB]
-        A3[Gemini LLM integration]
-    end
-    Frontend --> Backend
-    Backend --> Data_and_Cloud
-    AI_ML --> Backend
-```
+| Layer | Technologies |
+|---|---|
+| **Frontend** | Flutter (BLoC, GoRouter), React / Next.js, Vue.js |
+| **Backend** | Node.js / Express, Django, REST APIs |
+| **Data & Cloud** | Firebase (Firestore, Auth, Storage, Messaging), MongoDB / SQL, Hostinger VPS |
+| **AI / ML** | CNNs, RAG + ChromaDB, Gemini LLM integration |
 
 **Other:** Baileys (WhatsApp API) · client-side encryption (RSA-OAEP + AES-256-GCM) · localization (Easy Localization)
 
@@ -103,7 +83,7 @@ flowchart LR
 
 ## 📫 Let's Connect
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/sayed-buraque-1b2098284"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://youtube.com/@buraquesayed"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="mailto:buraquescode24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
